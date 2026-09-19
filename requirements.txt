@@ -6,3 +6,7 @@ langchain-core
 langchain-text-splitters
 langchain-google-genai
 pypdf
+fastapi
+uvicorn
+pydantic
+faiss-cpu
